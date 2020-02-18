@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_type_</key>
+	<string>CONTAINER</string>
+	<key>orientation</key>
+	<string>V</string>
+	<key>children</key>
+	<array>
+		<dict>
+			<key>_type_</key>
+			<string>IMAGE</string>
+			<key>value</key>
+			<string>https://picsum.photos/128</string>
+		</dict>
+		<dict>
+			<key>_type_</key>
+			<string>TEXT</string>
+			<key>text</key>
+			<string>&quot;Hello, world!&quot;</string>
+		</dict>
+		<dict>
+			<key>_type_</key>
+			<string>INPUT</string>
+			<key>text</key>
+			<string>e-mail</string>
+			<key>value</key>
+			<string>mail@mail.com</string>
+		</dict>
+		<dict>
+			<key>_type_</key>
+			<string>CONTAINER</string>
+			<key>orientation</key>
+			<string>H</string>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>_type_</key>
+					<string>IMAGE</string>
+					<key>value</key>
+					<string>https://picsum.photos/128</string>
+				</dict>
+				<dict>
+					<key>_type_</key>
+					<string>TEXT</string>
+					<key>text</key>
+					<string>&quot;Hello, world!&quot;</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>_type_</key>
+			<string>TEXT</string>
+			<key>text</key>
+			<string>&quot;Hello, world!&quot;</string>
+		</dict>
+		<dict>
+			<key>_type_</key>
+			<string>INPUT</string>
+			<key>text</key>
+			<string>age</string>
+		</dict>
+		<dict>
+			<key>_type_</key>
+			<string>BUTTON</string>
+			<key>text</key>
+			<string>submit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
